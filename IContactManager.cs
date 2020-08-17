@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ContactBook
 {
-    interface IContactManager
+    public interface IContactManager
     {
         bool Save(ContactModel model);
         ContactModel GetByID(int id);
