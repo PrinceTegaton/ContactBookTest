@@ -3,7 +3,10 @@ Simple C# skill test. Contact book with JSON as DB
 
 Build a simple console app that will demonstrate the use of abstraction (Interface), Language Integrated Query (LINQ) and other basic C# building blocks.
 
-I have built a skeleton to ease your understanding of what i expect. Clone from here https://github.com/PrinceTegaton/ContactBookTest
+I have built a skeleton to ease your understanding of what i expect. Clone from here https://github.com/PrinceTegaton/ContactBookTest/tree/problem
+Checkout branch: problem
+
+---------------------
 
 Problem
 I have a simple contact book app that will allow
@@ -22,6 +25,8 @@ Keep it simple and clean.. The contact info model should contain
 4. Email address
 
 Delete operation should be 'hard delete'.
+
+---------------------
 
 Time is 3hr max.
 Push your solution to github and share repo when done.
